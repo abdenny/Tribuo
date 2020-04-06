@@ -209,7 +209,7 @@ function callNYTimes(dateToCheck) {
 </br>
 
 <h2>Live Demo</h2>
--link coming soon-
+http://ec2-3-21-98-7.us-east-2.compute.amazonaws.com/
 </br>
 
 <h2>Screenshots:</h2>
